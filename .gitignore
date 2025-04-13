@@ -1,0 +1,14 @@
+*.pyc
+__pycache__/
+db.sqlite3
+.DS_Store
+env/
+venv/
+*.log
+*.swp
+*.swo
+*.idea/
+*.vscode/
+local_settings.py
+media/  # If you don't want to track user uploads
+static/ # If you don't want to track collected static files
