@@ -12,3 +12,4 @@ venv/
 local_settings.py
 media/  # If you don't want to track user uploads
 static/ # If you don't want to track collected static files
+valuationenv/**
